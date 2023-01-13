@@ -1,0 +1,30 @@
+package string2;
+
+public class string2 {
+
+	public static void main(String[] args) {
+
+	
+		Product[] products= {};
+				
+		System.out.println(products.length);		
+				
+				
+				
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+}
+}

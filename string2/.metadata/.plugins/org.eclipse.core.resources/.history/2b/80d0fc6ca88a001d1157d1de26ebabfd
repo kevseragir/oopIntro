@@ -1,0 +1,51 @@
+package asalSayilar;
+
+public class asalSayilar {
+
+	public static void main(String[] args) {
+		 
+		int number=25;
+		int remainder= number%2;
+		
+		//remainder kalan demektir/
+	
+		
+		
+		
+		
+		System.out.println(remainder);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

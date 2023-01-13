@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kevse
+ *
+ */
+module stringDemo {
+}

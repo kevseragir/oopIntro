@@ -1,0 +1,37 @@
+package string2;
+
+public class string2 {
+
+	public static void main(String[] args)
+	{
+
+	String mesaj = "Bugun hava guzel";
+	System.out.println(mesaj);
+	String yenimesaj = mesaj.replace(" ", "-");
+	 System.out.println(yenimesaj);
+			//replace degistirmek icin kullanilir.
+	 System.out.println(mesaj.substring(2,5));
+	 // ikinci indexten kes ve sonu kadar -System.out.println(mesaj.substring(2));
+	 // ,4 ile dorde kadar demektir
+	 
+	 for(String kelime: mesaj.split("")) {
+		 System.out.println(kelime);
+		 
+		 
+		 
+		 System.out.println(mesaj.toLowerCase());
+		 
+		 //tolowers harfleri kucuk harf olmasi
+		 
+		 System.out.println(mesaj.toUpperCase());
+		 
+		 //tolowers harfleri BUYUK harf olmasi
+		 
+		 
+		 
+		 
+	 }
+	 
+	 
+      }
+}

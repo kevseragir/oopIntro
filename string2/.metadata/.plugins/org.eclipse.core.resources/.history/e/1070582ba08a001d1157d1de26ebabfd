@@ -1,0 +1,14 @@
+package string2;
+
+public class string2 {
+
+	public static void main(String[] args)
+	{
+
+	String mesaj = "Bugun hava guzel";
+	System.out.println(mesaj);
+	 
+			
+ 
+      }
+}

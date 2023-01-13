@@ -1,0 +1,47 @@
+package asalSayilar;
+
+public class asalSayilar {
+
+	public static void main(String[] args) {
+		 
+		int sayi=1;
+		
+		
+		
+		
+		System.out.println(sayi);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

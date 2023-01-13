@@ -1,0 +1,32 @@
+package oopIntro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Product product1= new Product();//referans olus.,ornek,intance
+		product1.id=1;
+		product1.name="Lenova L14";
+		product1.unitPrice=15000;
+		product1.detail="16 GB Ram";
+ Product[] products = {product1};
+ Product product2= new Product();//referans olus.,ornek,intance
+	product2.id=2;
+	product2.name="Lenova L15";
+	product2.unitPrice=16000;
+	product2.detail="32 GB Ram";
+Product product3= new Product();//referans olus.,ornek,intance
+product3.id=3;
+product3.name="Lenova L16";
+product3.unitPrice=17000;
+product3.detail="64 GB Ram";
+
+ System.out.println(products.length );
+ System.out.println();		
+		
+		
+		
+		
+	}
+
+}

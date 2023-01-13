@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+C:\Users\kevse\eclipse-workspace\string2\.metadata\.plugins\org.eclipse.jdt.core
+3800427458.index
+1220614122.index
+2208946761.index
+1865797976.index
+3295156189.index
+321616656.index
+1334246765.index
+1542136751.index
+3293023339.index
